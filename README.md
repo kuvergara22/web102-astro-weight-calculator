@@ -1,0 +1,2 @@
+Project populates each planet in the dropdown and shows the correct weight for each planet.
+to clone or download project, go to github and click on either one. Then open terminal and go to the folder you would like to clone or download the project in. cd into your folder and type in "git clone and the name of the project".  
